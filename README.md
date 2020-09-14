@@ -1,0 +1,2 @@
+# SOLVING-ODE-USING-RUNGE-KUTTA-3RD-ORDER
+ODE problems can be solved in many ways and one of the methods used in this problem is by Runge-Kutta 3rd order method. All the calculations performed in solving this ODE problem is just an approximation of the real values and the calculation is performed in a manner that the results obtained are very close to the actual values. In Runge-kutta, the value of n chosen is 3 (representing the 3rd order) this means that the equation is evaluated 3 times in each steps performed (k1,k2 and k3).   
